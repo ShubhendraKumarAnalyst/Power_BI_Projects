@@ -1,24 +1,24 @@
-Amazon Global Market Analysis
+#Amazon Global Market Analysis
 Power BI project
 
-Discription: This my first Microsoft Power BI Project. It is about the market analysis of Amazon Global 
+##Discription: This my first Microsoft Power BI Project. It is about the market analysis of Amazon Global 
 which helps us understand the global market and area, product and states which helps the company get maximum revenue
 and sales. It also give us the insight of the losses incured by the business.
 
 **********************************************************************************************************
-Getting Started:
+##Getting Started:
 It has 4 folder which has the importing Data, ETL Process, Cards pie donut stack chart, final folder and followed by 
 the logo and dataset for the this project.
 
 ************************************************************************************************************
-Contributor:
+##Contributor:
 Data Analyst @Shubhendra Kumar
 
-contact:
+##contact:
 Email: Kshubhendra8860@gmail.com
 Linkedin: https://www.linkedin.com/in/shubhendrakumar/
 ***************************************************************************************************************
-Table Of Contant
+##Table Of Contant
 1.Importing_Data
   *Amazon Global Market Analysis.docx
   *importing _Data.pbix
